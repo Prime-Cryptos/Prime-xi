@@ -1,0 +1,9 @@
+Building primexi
+
+See doc/readme-qt.rst for instructions on building primexi-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of primexi.
+
+See doc/build-*.txt for instructions on building primexid,
+the intended-for-services, no-graphical-interface, reference
+implementation of primexi.
