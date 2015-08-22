@@ -1,11 +1,16 @@
 ================================
 Prime-XI 
+
 Crypto Currency
 
 Symbol - PXI
+
 Algorithm - X11
+
 Block Reward - 5 pxi
+
 Block Time - 25 seconds
+
 Infinite Coins, Proof of Work, Dark Gravity Wave 3
 
 ===============================
