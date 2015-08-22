@@ -1,6 +1,5 @@
 ================================
 Prime-XI 
-
 Crypto Currency
 
 Symbol - PXI
