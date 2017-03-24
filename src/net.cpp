@@ -1193,6 +1193,7 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 
 static const char *strMainNetDNSSeed[][2] = {
+	{"138.197.144.217", "138.197.144.217"},
     {"162.243.151.67", "162.243.151.67"},
     {"192.241.184.85", "192.241.184.85"},
     {"188.226.248.45", "188.226.248.45"},

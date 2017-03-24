@@ -1254,7 +1254,7 @@ unsigned int static KimotoGravityWell(const CBlockIndex* pindexLast, const CBloc
 }
 
 unsigned int static DarkGravityWave(const CBlockIndex* pindexLast, const CBlockHeader *pblock) {
-    /* current difficulty formula, primexi - DarkGravity, written by Evan Duffield - evan@primexi.io */
+    /* current difficulty formula, primexi - DarkGravity, written by percise */
     const CBlockIndex *BlockLastSolved = pindexLast;
     const CBlockIndex *BlockReading = pindexLast;
     const CBlockHeader *BlockCreating = pblock;
@@ -1328,7 +1328,7 @@ unsigned int static DarkGravityWave(const CBlockIndex* pindexLast, const CBlockH
 }
 
 unsigned int static DarkGravityWave2(const CBlockIndex* pindexLast, const CBlockHeader *pblock) {
-    /* current difficulty formula, primexi - DarkGravity v2, written by Evan Duffield - evan@primexi.io */
+    /* current difficulty formula, primexi - DarkGravity v2, written by percise */
     const CBlockIndex *BlockLastSolved = pindexLast;
     const CBlockIndex *BlockReading = pindexLast;
     const CBlockHeader *BlockCreating = pblock;
@@ -1406,7 +1406,7 @@ unsigned int static DarkGravityWave2(const CBlockIndex* pindexLast, const CBlock
 
 unsigned int static DarkGravityWave3(const CBlockIndex* pindexLast, const CBlockHeader *pblock) {
 
-     /* current difficulty formula, darkcoin - DarkGravity v3, written by Evan Duffield - evan@darkcoin.io */
+     /* current difficulty formula, darkcoin - DarkGravity v3, written by percise */
 
      const CBlockIndex *BlockLastSolved = pindexLast;
      const CBlockIndex *BlockReading = pindexLast;
