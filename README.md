@@ -16,7 +16,7 @@ Private, verified transactions.
 
 Operating since 2014.
 
-===============================
+
 
 
 
@@ -36,7 +36,7 @@ Minimal resource consumption.
 
 GPUs run at about 30% less wattage and 30 to 50% cooler.
 
-===============================
+
 
 
 
