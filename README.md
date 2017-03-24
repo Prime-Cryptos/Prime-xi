@@ -72,6 +72,7 @@ Prime-XI Official Forum
 https://bitcointalk.org/index.php?topic=701871
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2014-2017 Primexi Developers
 
 ================================
