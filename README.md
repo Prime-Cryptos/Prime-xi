@@ -69,7 +69,7 @@ RPC:11011
 ===============================
 
 Prime-XI Official Forum
-https://bitcointalk.org/index.php?topic=701871.msg7931657#msg7931657
+https://bitcointalk.org/index.php?topic=701871
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2014-2017 Primexi Developers
