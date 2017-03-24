@@ -1,0 +1,58 @@
+Ubuntu 14.04 x64 Node
+==================================
+
+sudo apt-get update
+sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb5.3-dev libdb5.3++-dev git qt-sdk libminiupnpc-dev libssl-dev db5.3
+
+git clone https://github.com/Prime-Cryptos/Prime-xi
+
+mv Prime-xi primexi
+
+cd primexi/src/leveldb
+
+chmod +x build_detect_platform
+
+cd ..
+
+#should now be in primexi/src
+
+mkdir obj
+
+make clean -f makefile.unix
+
+make -f makefile.unix
+
+strip primexid
+
+mv primexid ../../primexid
+
+cd ../../
+
+mkdir .primexi
+
+nano .primexi/primexi.conf
+
+#add in conf
+
+daemon=1
+server=1
+rpcuser=enteryourusername
+rpcpassword=enteryourpassword
+addnode=138.197.26.195
+addnode=138.197.144.217
+addnode=primexi01.fuzzbawls.pw
+addnode=92.222.238.47
+maxconnections=500
+
+#ctrl + x, save and exit
+
+./primexid
+
+#primexid server starting...
+
+
+#Add security
+chmod 600 .primexi/primexi.conf
+
+#monitor
+./primexid getinfo
