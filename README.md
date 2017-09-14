@@ -1,6 +1,6 @@
 PRIME-XI
 =========================
-Digital Currency, Since 2014
+Digital Currency
 
 Secure, anonymous, global payment network that is fully decentralized.
 
