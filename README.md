@@ -1,4 +1,6 @@
-![alt tag](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FFFAX7WC.png&t=574&c=1z0mmPllFtrC4Q)
+PRIME-XI
+Digital Currency
+Since 2014
 
 Secure, anonymous, global payment network that is fully decentralized.
 
