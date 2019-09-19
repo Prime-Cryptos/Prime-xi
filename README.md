@@ -12,6 +12,8 @@ Multiple hashing algorithms enhance the security of the network.
 
 Mature, advanced digital currency, operating with excellence.
 
+Longest running blockchain without any hardforks.
+
 Decentralised blockchain database that's managed autonomously.
 
 Private, verified transactions.
